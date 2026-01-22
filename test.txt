@@ -1,7 +1,4 @@
 test2
 test4
-<<<<<<< HEAD
 merge test
-=======
-merge new test
->>>>>>> test
+
